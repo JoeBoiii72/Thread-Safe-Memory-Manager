@@ -1,4 +1,4 @@
-# Thread-Safe-Memory_Manager
+# Thread Safe Memory Manager
 
 A memory manager, or simply, my implementation of "alloc()" and "free()".
 
